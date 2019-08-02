@@ -1,0 +1,28 @@
+﻿  HashMain.cpp
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(15): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(15): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(16): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(16): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(17): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(17): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(18): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(18): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(19): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(19): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(20): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(20): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(21): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(21): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(22): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(22): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(23): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(23): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(24): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(24): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(46): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(46): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(47): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(47): warning C4309: 'argument': truncation of constant value
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(48): warning C4305: 'argument': truncation from '__int64' to 'int'
+c:\users\newga\desktop\hashtable\hashtable\hashmain.cpp(48): warning C4309: 'argument': truncation of constant value
+  HashTable.vcxproj -> C:\Users\NewGa\Desktop\HashTable\Debug\HashTable.exe
